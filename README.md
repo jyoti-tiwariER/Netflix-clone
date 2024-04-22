@@ -1,2 +1,2 @@
 # Netflix-clone
-This project is a Netflix clone created using HTML ,CSS , and JavaScript.
+This project is a Netflix clone created using HTML ,CSS.
